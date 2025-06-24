@@ -5,13 +5,7 @@
 
 ---
 
-## 📌 Problem Statement
 
-PROBLEM STATEMENT 1:-WEAVE AI MAGIC WITH GROQ 
-
-
-
----
 
 ## 🎯 Objective
 
@@ -51,13 +45,6 @@ Database: (None for MVP) - local storage & future-ready backend architecture
 APIs: Custom RESTful API with OAuth 2.0 and WebSocket real-time support
 Hosting: Vercel
 
-### Sponsor Technologies Used (if any):
-- [x]*Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [x] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
 
 ---
 
@@ -81,16 +68,12 @@ Highlight the most important features of your project:
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** https://youtu.be/5yOHyDHVmQA?si=qh6mxCevA96qZWJD 
+- **Demo Video Link:** https://youtu.be/5yOHyDHVmQA?si=qh6mxCevA96qZWJD
+- **Deployment Link:** https://emma-careforyou.vercel.app/
 - **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1TPhf80PoV7sWKwCwEJigeCNwlH5qLWhi/view?usp=sharing 
 
----
 
-## ✅ Tasks & Bonus Checklist
 
-- [x] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [x] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [x] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 ---
 
