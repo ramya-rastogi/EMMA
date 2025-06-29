@@ -22,7 +22,7 @@ The Codophilics
 ### Team Members:  
 - Pushkar Khattri(https://github.com/RaGaS958 ,Team Leader, Frontend & Integration)
 
-- Ramya Rastogi(http://github.com/ramya-rastogi ,Content creater,presentation)
+- Ramya Rastogi(http://github.com/ramya-rastogi ,Content creater,presentation and developer)
 - Shraddha Bajpai(https://github.com/Itsshraddha ,UI designer,Core Developer)
 -  Stuti Shukla( https://github.com/Stutishukla007 , Researcher,Graphic designer)
 
@@ -87,7 +87,7 @@ Highlight the most important features of your project:
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/RaGaS958/TheCodophilcs-EMMA.git
+git clone https://github.com/ramya-rastogi/EMMA.git
 
 # Install dependencies
 cd EMMA
