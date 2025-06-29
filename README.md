@@ -70,7 +70,7 @@ Highlight the most important features of your project:
 
 - **Demo Video Link:** https://youtu.be/5yOHyDHVmQA?si=qh6mxCevA96qZWJD
 - **Deployment Link:** https://emma-careforyou.vercel.app/
-- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1TPhf80PoV7sWKwCwEJigeCNwlH5qLWhi/view?usp=sharing 
+- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/16KL2pwaMb9L4rAY7ExS5DhEyC7_eOgqX/view?usp=sharing
 
 
 
